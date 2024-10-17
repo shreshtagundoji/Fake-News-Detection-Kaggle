@@ -1,6 +1,6 @@
 ## Fake News Detection
 
-This project focuses on developing an advanced text classification model to distinguish between negative and positive statements using the WELFake_Dataset.csv. The model employs a hybrid architecture that combines traditional and deep learning approaches for enhanced performance and novelty in research.
+This project focuses on developing an advanced text classification model. The model employs a hybrid architecture that combines traditional and deep learning approaches for enhanced performance and novelty in research.
 
 #### Model Description
 
